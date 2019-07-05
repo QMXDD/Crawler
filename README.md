@@ -8,3 +8,6 @@
 https://blog.csdn.net/Q_M_X_D_D_/article/details/94594196
 进阶版：
 https://blog.csdn.net/Q_M_X_D_D_/article/details/94732292
+Q_M_X_D_D_是我博客的账号名
+Q_M_X_D_D_title文件中保存了阅读量和文章标题
+Q_M_X_D_D_.html中就是柱状图
